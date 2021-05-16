@@ -1,0 +1,46 @@
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+  div.box{  position: absolute;
+    top:230px;
+    left: 400px;
+  }
+
+  div.box1{
+      position: absolute;
+    
+    top:275;
+    left:300px;
+}
+   
+div.box1 p {
+    color: hsl(0, 0%, 100%);
+    font-size: medium;
+}
+
+div.box1 h2 {
+    color: white;
+}
+div.box3{
+    position: absolute;
+    top: 800px;
+    left: 200px;
+}
+div.box4{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 840px;
+    left:800px;
+}
+li {
+    list-style-type: none; 
+   }
+
+   p{
+    color:darkgray;
+   font-size:16px;
+   line-height: 21px;
+  }
